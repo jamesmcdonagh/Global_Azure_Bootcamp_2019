@@ -23,4 +23,35 @@ Contexts and storage - Sophisticated bots. filling out a form.
 
 Development tools
 
+Visual studio project templates
+Visual Studio code / Yeoman templates
+Bot Framework Emulator
+Github Samples - https://github.com/Microsoft/botbuilder-samples
 
+
+Bot Framework Azure Integration
+
+Bot Framework increasing managed by Azure Bot Service
+Download code applications settings
+
+
+Cognitive services
+
+Breadth of services
+
+
+Bot Integration
+
+LUIS is a core companion
+QNA MakerContent moderator
+Text analytics
+	Sentiment analysis
+	Phrase
+	
+	
+Other Bot topics of interest
+
+Enterprise features
+	identity
+	application integration
+Microsoft Graph integration
