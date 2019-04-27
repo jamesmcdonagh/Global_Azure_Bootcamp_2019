@@ -1,0 +1,11 @@
+AZ-103 exam replaces, AZ-100, 101, and 102 May 1st
+
+Price reduction on Azure container instances
+
+AzCopy now supports Amazon S3 as a data source
+
+Azure Sphere 19.04 now available for evaluation
+
+Premium Blob Storage GA
+
+Azure Functions Premium Plan
